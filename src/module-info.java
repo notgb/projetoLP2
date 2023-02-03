@@ -1,8 +1,5 @@
 /**
- * 
- */
-/**
- * @author Gabriel
+ * @author Gabriel e Alex
  *
  */
 module projetoLP2 {
