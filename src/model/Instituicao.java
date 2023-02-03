@@ -33,7 +33,7 @@ public class Instituicao {
 	
 	/**
 	 * Método para definir o código MEC da instituição
-	 * @param codigoMEC
+	 * @param codigoMEC código MEC da instituição
 	 */
 	public void setCodigoMEC(String codigoMEC) {
 		this.codigoMEC = codigoMEC;
@@ -49,7 +49,7 @@ public class Instituicao {
 
 	/**
 	 * Método para definir o nome da instituição
-	 * @param nome
+	 * @param nome nome da instituição
 	 */
 	public void setNome(String nome) {
 		this.nome = nome;
@@ -57,7 +57,7 @@ public class Instituicao {
 
 	/**
 	 * Método para obter o ano em que a instituição foi criada
-	 * @return anoFundacao
+	 * @return anoFundacao 
 	 */
 	public String getAnoFundacao() {
 		return anoFundacao;
@@ -65,7 +65,7 @@ public class Instituicao {
 
 	/**
 	 * Método para definir o ano em que a instituição foi criada
-	 * @param anoFundacao
+	 * @param anoFundacao ano em que a instituição foi criada
 	 */
 	public void setAnoFundacao(String anoFundacao) {
 		this.anoFundacao = anoFundacao;
@@ -81,7 +81,7 @@ public class Instituicao {
 
 	/**
 	 * Método para definir o tipo de instituição
-	 * @param tipo
+	 * @param tipo tipo de instituição
 	 */
 	public void setTipo(String tipo) {
 		this.tipo = tipo;
