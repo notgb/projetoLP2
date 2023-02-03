@@ -114,6 +114,7 @@ public class InstituicaoGUI extends JFrame {
 		modelo.addColumn("Ano de Fundação");
 		modelo.addColumn("Tipo");
 		tableInstituicao = new JTable(modelo);
+		tableInstituicao.setEnabled(false);
 	}
 	
 	/**
